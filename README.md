@@ -1,2 +1,2 @@
-Muzzler_MusicPlayer
+Muzzler.Music
 ===================
